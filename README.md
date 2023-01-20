@@ -179,12 +179,13 @@
 </a>
   </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=deleastra&show_icons=true&locale=en&layout=compact" alt="deleastra" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=deleastra" alt="deleastra" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=deleastra&show_icons=true&locale=en" alt="deleastra" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=deleastra" alt="deleastra"/></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=deleastra&" alt="deleastra" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=deleastra" alt="deleastra"/></p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deleastra&label=Profile%20views&color=0e75b6&style=flat" alt="deleastra" /> </p>
+
 
 Create with https://rahuldkjain.github.io/gh-profile-readme-generator/
