@@ -179,13 +179,9 @@
 </a>
   </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=deleastra" alt="deleastra" /></p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=deleastra" alt="deleastra"/></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=deleastra" alt="deleastra"/></p>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=deleastra&label=Profile%20views&color=0e75b6&style=flat" alt="deleastra" /> </p>
-
-
-Create with https://rahuldkjain.github.io/gh-profile-readme-generator/
+<p><img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=deleastra&theme=github" alt="deleastra" /></p>
+<br>
+Created using<br>
+https://rahuldkjain.github.io/gh-profile-readme-generator/<br>
+https://github-profile-summary-cards.vercel.app/demo.html<br>
+https://github.com/ryo-ma/github-profile-trophy
