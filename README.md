@@ -3,7 +3,7 @@
 
 <p align="middle"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=deleastra&theme=onedark&row=2&column=3" alt="deleastra" /></a> </p>
 
-- 🌱 I’m currently learning **Golang, Rust**
+- 🌱 I’m currently learning **Flutter**
 
 - 📫 How to reach me **sopanut.keton@gmail.com**
 
